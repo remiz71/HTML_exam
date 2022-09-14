@@ -1,0 +1,21 @@
+#_text
+{
+    background-color:white;
+}
+
+#facts
+{
+    background-color: #eee;
+}
+.card
+{
+    border: 2px solid cornflowerblue;
+}
+#r-series
+{
+    background: #eef;
+    border-style: solid;
+    border-radius: 30px;
+    border-color: cornflowerblue;
+    margin-bottom: 50px;
+}
