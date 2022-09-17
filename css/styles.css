@@ -28,3 +28,22 @@
 {
   height: 235px;
 }
+
+#generations img
+{
+    border-style: solid;
+    border-color: black;
+    border-radius: 20px;
+}
+#brand_history
+{
+    background: url("/images/ИП.jpg");
+
+}
+#_history-blocks
+{
+    background-color: white;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: white;
+}
