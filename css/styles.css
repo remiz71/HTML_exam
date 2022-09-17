@@ -37,7 +37,7 @@
 }
 #brand_history
 {
-    background: url("/images/bg.jpg");
+    background: url(/images/bg.jpg);
 
 }
 #_history-blocks
